@@ -1,0 +1,49 @@
+{
+  "editorias": [
+    {
+      "editoria": "Pernambuco",
+      "id": "2",
+      "icon": "city"
+    },
+    {
+      "editoria": "Cultura",
+      "id": "4",
+      "icon": "pillar"
+    },
+    {
+      "editoria": "Política",
+      "id": "6",
+      "icon": "account-tie-voice"
+    },
+    {
+      "editoria": "Economia",
+      "id": "5",
+      "icon": "cash"
+    },
+    {
+      "editoria": "Esportes",
+      "id": "3",
+      "icon": "soccer-field"
+    },
+    {
+      "editoria": "Brasil",
+      "id": "9",
+      "icon": "flag"
+    },
+    {
+      "editoria": "Mundo",
+      "id": "7",
+      "icon": "earth"
+    },
+    {
+      "editoria": "Opinião",
+      "id": "8",
+      "icon": "account-voice"
+    },
+    {
+      "editoria": "Ultimas",
+      "id": "15",
+      "icon": "autorenew"
+    }
+  ]
+}

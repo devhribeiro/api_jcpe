@@ -1,0 +1,190 @@
+{
+    "blogs": [
+        {
+            "nome": "CB Poder",
+            "url": "https://blogs.correiobraziliense.com.br/cbpoder/",
+            "imagem": "https:/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2018/05/21/73/20190829164205555014u.jpg",
+            "descricao": "Os bastidores da política e notícias exclusivas de Brasília"
+        },
+        {
+            "nome": "Blog do Vicente",
+            "url": "https://blogs.correiobraziliense.com.br/vicente/",
+            "imagem": "https://imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2018/05/21/41/20190522132443510991u.jpg",
+            "descricao": "Espaço para a análise da economia"
+        },
+        {
+            "nome": "Papo de Concurseiro",
+            "url": "https://blogs.correiobraziliense.com.br/papodeconcurseiro/",
+            "imagem": "https://imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2018/05/21/42/20190522133602161629e.jpg",
+            "descricao": "Saiba tudo sobre os concursos públicos do país"
+        },
+        {
+            "nome": "Próximo Capítulo",
+            "url": "https://blogs.correiobraziliense.com.br/proximocapitulo/",
+            "imagem": "https://imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2018/05/21/61/20190522133242346744u.jpg",
+            "descricao": "Tudo sobre TV, Séries e Filmes"
+        },
+        {
+            "nome": "Blogo do Servidor",
+            "url": "https://blogs.correiobraziliense.com.br/servidor/",
+            "imagem": "https://imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2018/05/21/50/20190522133049417024u.jpg",
+            "descricao": "Todos os assuntos de interesse dos servidores públicos"
+        },
+        {
+            "nome": "Blog da Dad",
+            "url": "https://blogs.correiobraziliense.com.br/dad/",
+            "imagem": "https://imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2018/05/21/48/20190522134345299052a.jpg",
+            "descricao": "Xô, dúvida! Dicas de português pra dar vender e emprestar"
+        },
+        {
+            "nome": "Blog da Denise",
+            "url": "https://blogs.correiobraziliense.com.br/denise/",
+            "imagem": "https://imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2018/05/21/52/20190522134447765749u.jpg",
+            "descricao": "Análises e informações sobre o dia-a-dia da política nacional"
+        },
+        {
+            "nome": "Blog do Azedo",
+            "url": "https://blogs.correiobraziliense.com.br/azedo/",
+            "imagem": "https://imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2018/05/21/57/20190522134546312406a.jpg",
+            "descricao": "Notas e Comentários Políticos"
+        },
+        {
+            "nome": "Marcelo Vitorino",
+            "url": "https://blogs.correiobraziliense.com.br/marcelovitorino/",
+            "imagem": "https://imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2018/05/21/166/20191001142100725003i.jpg",
+            "descricao": "Blog feito para quem procura entender mais sobre como a política, tecnologia, comunicação e os reflexos nas eleições brasileiras"
+        },
+        {
+            "nome": "Blog do André Boratto",
+            "url": "https://blogs.correiobraziliense.com.br/andreboratto/",
+            "imagem": "https://imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2018/05/21/168/20191218094807497715e.jpg",
+            "descricao": "Cozinheiro de mão cheia, participante do Masterchef Brasil 2019"
+        },
+        {
+            "nome": "Blog Daquilo",
+            "url": "https://blogs.correiobraziliense.com.br/daquilo/",
+            "imagem": "https://imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2018/05/21/62/20190524140621316577i.jpg",
+            "descricao": "Um blog sobre sexo"
+        },
+        {
+            "nome": "Mais Bichos",
+            "url": "https://blogs.correiobraziliense.com.br/maisbichos/",
+            "imagem": "https://imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2018/05/21/55/20190522135155418452a.jpg",
+            "descricao": "Espaço para compartilhar notícias e eventos sobre o universo pet"
+        },
+        {
+            "nome": "NQV",
+            "url": "https://blogs.correiobraziliense.com.br/nqv/",
+            "imagem": "https://imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2018/05/21/58/20190522135016523378o.jpg",
+            "descricao": "Você não pode dormir sem ficar sabendo disso"
+        },
+        {
+            "nome": "Drible de Corpo",
+            "url": "https://blogs.correiobraziliense.com.br/dribledecorpo/",
+            "imagem": "https://imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2018/05/21/54/20190522134816924141o.jpg",
+            "descricao": "Análises, opinião e lembranças do arco-da-velha sobre o futebol"
+        },
+        {
+            "nome": "Elas no Ataque",
+            "url": "https://blogs.correiobraziliense.com.br/elasnoataque/",
+            "imagem": "https://imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2018/05/21/69/20190524140133578206i.jpg",
+            "descricao": "Espaço para compartilhar notícias esportivas em que a mulher é protagonista"
+        },
+        {
+            "nome": "Liana Sabo",
+            "url": "https://blogs.correiobraziliense.com.br/lianasabo/",
+            "imagem": "https://imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2018/05/21/60/20190522135239254941u.jpg",
+            "descricao": "A gastronomia da cidade em matérias saborosas"
+        },
+        {
+            "nome": "4 Elementos",
+            "url": "https://blogs.correiobraziliense.com.br/4elementos/",
+            "imagem": "https://imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2018/05/21/164/20190612161413570435i.jpg",
+            "descricao": "Preservar é preciso"
+        },
+        {
+            "nome": "Ari Cunha",
+            "url": "https://blogs.correiobraziliense.com.br/aricunha/",
+            "imagem": "https://imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2018/05/21/76/20190522135352874091u.jpg",
+            "descricao": "Registro dos acontecimentos sobre política e Brasília desde 1960"
+        },
+        {
+            "nome": "Primeira Infância",
+            "url": "https://blogs.correiobraziliense.com.br/primeirainfancia/",
+            "imagem": "https://imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2018/05/21/77/20190524141415563194o.jpg",
+            "descricao": "Um blog sobre a primeira infância, período considerado fundamental para o desenvolvimento de qualquer ser humano e, consequentemente, de um país"
+        },
+        {
+            "nome": "Paulo Pestana",
+            "url": "https://blogs.correiobraziliense.com.br/paulopestana/",
+            "imagem": "https://imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2018/05/21/65/20190522140422897596a.jpg",
+            "descricao": "Crônicas"
+        },
+        {
+            "nome": "Dá tempo",
+            "url": "https://blogs.correiobraziliense.com.br/datempo/",
+            "imagem": "https://imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2018/05/21/78/20190524141930704789i.jpg",
+            "descricao": "Espaço para discutir e viver o envelhecimento de forma mais inclusiva"
+        },
+        {
+            "nome": "Blog do Severino",
+            "url": "https://blogs.correiobraziliense.com.br/severino/",
+            "imagem": "https://imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2018/05/21/63/20190522140012188306i.jpg",
+            "descricao": "Crônicas"
+        },
+        {
+            "nome": "Trilha Sonora",
+            "url": "https://blogs.correiobraziliense.com.br/trilhasonora/",
+            "imagem": "https://imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2018/05/21/71/20190524143412994087o.jpg",
+            "descricao": "Blog sobre boa música e literatura"
+        },
+        {
+            "nome": "Vrum",
+            "url": "https://blogs.correiobraziliense.com.br/vrum/",
+            "imagem": "https://imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2018/05/21/80/20190522140602777743e.jpg",
+            "descricao": "Lançamentos de carros e motos, avaliações e dicas de manutenção pra quem gosta de acelerar"
+        },
+        {
+            "nome": "Tecnologia Tony Ventura",
+            "url": "https://blogs.correiobraziliense.com.br/blog-tecnologia-tony-ventura/",
+            "imagem": "https://imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2018/05/21/79/20190522140350162823a.jpg",
+            "descricao": "Tony Ventura viaja o mundo atrás de novas tecnologias e indicando as melhores para seu público"
+        },
+        {
+            "nome": "Blogão do Zé",
+            "url": "https://blogs.correiobraziliense.com.br/blogaodoze/",
+            "imagem": "https://imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2018/05/21/49/20190522135602989677o.jpg",
+            "descricao": "Blogão do Zé, onde o humor e a irreverência brindam a vida"
+        },
+        {
+            "nome": "Leio de Tudo",
+            "url": "https://blogs.correiobraziliense.com.br/leiodetudo/",
+            "imagem": "https://imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2018/05/21/70/20190522140302243649i.jpg",
+            "descricao": "Blog sobre literatura, livros, leitura, lançamentos, ficção, não ficção, de tudo um pouco, sem preconceitos"
+        },
+        {
+            "nome": "Tecnoveste",
+            "url": "https://blogs.correiobraziliense.com.br/tecnoveste/",
+            "imagem": "https://imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2018/05/21/56/20190522140646303542u.jpg",
+            "descricao": "Tecnologia, startups, empreendedorismo e cultura digital"
+        },
+        {
+            "nome": "Thiago Aragão",
+            "url": "https://blogs.correiobraziliense.com.br/thiagodearagao/",
+            "imagem": "https://midias.correiobraziliense.com.br/_midias/jpg/2020/08/07/360x240/1_thiagoaragao-5073813.jpg",
+            "descricao": "Mercado Financeiro e a Política"
+        },
+        {
+            "nome": "Homero Reis",
+            "url": "https://blogs.correiobraziliense.com.br/homeroreis/",
+            "imagem": "https://blogs.correiobraziliense.com.br/homeroreis/wp-content/uploads/sites/57/2020/02/200x200-1.png",
+            "descricao": "Mercado Financeiro e a Política"
+        },
+        {
+            "nome": "O Futuro já começou",
+            "url": "https://blogs.correiobraziliense.com.br/ofuturojacomecou/",
+            "imagem": "https://blogs.correiobraziliense.com.br/ofuturojacomecou/wp-content/uploads/sites/58/2020/06/foto-200x200px.png",
+            "descricao": "Espiritualidade Empreendedora"
+        }
+    ]
+}

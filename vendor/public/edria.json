@@ -1,0 +1,74 @@
+{
+    "editorias": [
+        {
+            "editoria": "Cidades",
+            "id": "1",
+            "icon": "city"
+        },
+        {
+            "editoria": "Politica",
+            "id": "4",
+            "icon": "pillar"
+        },
+        {
+            "editoria": "Brasil",
+            "id": "5",
+            "icon": "newspaper"
+        },
+        {
+            "editoria": "Economia",
+            "id": "6",
+            "icon": "cash"
+        },
+        {
+            "editoria": "Mundo",
+            "id": "7",
+            "icon": "earth"
+        },
+        {
+            "editoria": "Diversão e Arte",
+            "id": "8",
+            "icon": "drama-masks"
+        },
+        {
+            "editoria": "Ciência e Saúde",
+            "id": "9",
+            "icon": "flask"
+        },
+        {
+            "editoria": "Opinião",
+            "id": "11",
+            "icon": "newspaper"
+        },
+        {
+            "editoria": "Eu, Estudante",
+            "id": "10",
+            "icon": "school"
+        },
+        {
+            "editoria": "Holofote",
+            "id": "12",
+            "icon": "bullhorn"
+        },
+        {
+            "editoria": "Empreendedorismo",
+            "id": "13",
+            "icon": "lightbulb-on"
+        },
+        {
+            "editoria": "Tecnologia",
+            "id": "14",
+            "icon": "chip"
+        },
+        {
+            "editoria": "Turismo",
+            "id": "15",
+            "icon": "airplane"
+        },
+        {
+            "editoria": "Revista do Correio",
+            "id": "16",
+            "icon": "book-open-variant"
+        }
+    ]
+}

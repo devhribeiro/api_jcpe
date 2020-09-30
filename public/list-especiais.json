@@ -1,0 +1,419 @@
+{
+  "especiais": [
+    {
+      "nome": "Correio nas Escolas",
+      "url": "https://correionasescolas.correiobraziliense.com.br/",
+      "imagem": "https://i.correiobraziliense.com.br/n0sVLnuNoJVrPro5EUoPhWFrZrY=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/12/13/167/20191213181436123057u.jpg"
+    },
+    {
+      "nome": "Saúde Mental em Sala de Aula",
+      "url": "https://www.correiobraziliense.com.br/euestudante/saude-mental/",
+      "imagem": "https://i.correiobraziliense.com.br/BwAbeAyCkHYlgcHSyFMWpzzY1Cc=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/07/02/165/20190702162533963276a.jpg"
+    },
+    {
+      "nome": "Especial Meu Lugar Ceilândia 2019",
+      "url": "https://www.correiobraziliense.com.br/meu-lugar/ceilandia/2019/",
+      "imagem": "https://i.correiobraziliense.com.br/l4C79O8PBa_xSlLFPEmT5o_axis=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/05/29/163/20190529142028907143e.jpg"
+    },
+    {
+      "nome": "Especial Aniversário de Brasília 2019",
+      "url": "https://www.correiobraziliense.com.br/aniversariodebrasilia/",
+      "imagem": "https://i.correiobraziliense.com.br/k-wZYWXpaPrFZ1oThCrEqcWTj9w=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/05/29/162/20190529142208267307a.jpg"
+    },
+    {
+      "nome": "Especial Carnaval 2019",
+      "url": "https://www.correiobraziliense.com.br/carnaval2019/",
+      "imagem": "https://i.correiobraziliense.com.br/FW2oF6XYjh52NfhgvbnMm_xf2nU=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/05/29/160/20190529142242429524e.jpg"
+    },
+    {
+      "nome": "Especial Vida Escolar 2019",
+      "url": "https://www.correiobraziliense.com.br/euestudante/vidaescolar2019/",
+      "imagem": "https://i.correiobraziliense.com.br/tyjiEetqXOP3SyquwDKDOj6DHeA=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/05/29/161/20190529142300184105e.jpg"
+    },
+    {
+      "nome": "Especial Aprovados UnB - PAS 2019",
+      "url": "https://www.correiobraziliense.com.br/euestudante/resultado-pas/",
+      "imagem": "https://i.correiobraziliense.com.br/sKMl3iFupoyJYbhPsZ84Md0rhmc=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/05/29/159/20190529142334497372i.jpg"
+    },
+    {
+      "nome": "Especial Imposto de Renda 2019",
+      "url": "https://www.correiobraziliense.com.br/ir2019/",
+      "imagem": "https://i.correiobraziliense.com.br/-pNmVb4jlWA36BVbd-5ZvgEmBdU=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/05/29/158/20190529152549251209a.jpg"
+    },
+    {
+      "nome": "Especial Escolha a Escola do seu Filho 2018",
+      "url": "https://www.correiobraziliense.com.br/escolhaaescoladoseufilho/",
+      "imagem": "https://i.correiobraziliense.com.br/WK9yqmfk3ei6350pV9SLhMx7hJ8=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/05/29/156/20190529142415827059u.jpg"
+    },
+    {
+      "nome": "Especial de Natal 2018",
+      "url": "https://www.correiobraziliense.com.br/especialdenatal/2018/",
+      "imagem": "https://i.correiobraziliense.com.br/rZlulAIIkaFABGOXY52czQdwwgo=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/05/29/157/20190529142431822959o.jpg"
+    },
+    {
+      "nome": "Especial Melhor Idade 2018",
+      "url": "https://www.correiobraziliense.com.br/melhoridade/",
+      "imagem": "https://i.correiobraziliense.com.br/93NsWwA8pla8OOHr-hEVXCZF4YU=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/05/29/155/20190529142458340426i.jpg"
+    },
+    {
+      "nome": "Especial ENEM 2018",
+      "url": "https://www.correiobraziliense.com.br/euestudante/enem-2018/",
+      "imagem": "https://i.correiobraziliense.com.br/_HSNLeK5sci2LzWLn8VWaCj0SZM=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/05/29/154/20190529142514809890o.jpg"
+    },
+    {
+      "nome": "Especial Dia dos Pais 2018",
+      "url": "https://www.correiobraziliense.com.br/diadospais/2018/",
+      "imagem": "https://i.correiobraziliense.com.br/l9N4qAXDZDA-jZncN8m1UQoSpPs=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/05/29/153/20190529154635402228o.jpg"
+    },
+    {
+      "nome": "Especial Brasília Patrimônio Vivo 2018",
+      "url": "http://especiais.correiobraziliense.com.br/brasiliapatrimoniovivo",
+      "imagem": "https://i.correiobraziliense.com.br/sKeuzRKn51W2YkvwHdzlsBZZQMU=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/05/29/152/20190529142543640440e.jpg"
+    },
+    {
+      "nome": "Especial Carnaval 2018",
+      "url": "https://www.correiobraziliense.com.br/carnaval2018/",
+      "imagem": "https://i.correiobraziliense.com.br/Ov8jniMYHQIt2Z-7szo7E2aHLqw=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/05/29/151/20190529164402102116u.jpg"
+    },
+    {
+      "nome": "Especial Proposta Informe Publicitário CNC 2018",
+      "url": "https://www.correiobraziliense.com.br/informativo/cnc/",
+      "imagem": "https://i.correiobraziliense.com.br/uXsZ4YoHWRyQqtCnwbZ8ZNXzXYQ=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/05/29/150/20190529142617799440o.jpg"
+    },
+    {
+      "nome": "Especial Meu Lugar Águas Claras 2018",
+      "url": "https://especiais.correiobraziliense.net.br/aguasclaras/",
+      "imagem": "https://i.correiobraziliense.com.br/uDQp47fpObPqL83ATCx3yJLF-fU=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/05/29/149/20190529161245225561i.jpg"
+    },
+    {
+      "nome": "Especial Aniversário de Brasília 2018",
+      "url": "http://especiais.correiobraziliense.com.br/brasilia-58-anos",
+      "imagem": "https://i.correiobraziliense.com.br/Cuk5SXTymiQaia6vPeiTCHYEbeo=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/05/29/148/20190529142705485252i.jpg"
+    },
+    {
+      "nome": "Especial Meu Lugar Ceilândia 2018",
+      "url": "https://www.correiobraziliense.com.br/meu-lugar/ceilandia/",
+      "imagem": "https://i.correiobraziliense.com.br/fucr6nZf7F8cWbfPwal1ODFZDRQ=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/05/29/147/20190529160826300337e.jpg"
+    },
+    {
+      "nome": "Especial Meu Lugar Taguatinga 2018",
+      "url": "https://www.correiobraziliense.com.br/meu-lugar/taguatinga/",
+      "imagem": "https://i.correiobraziliense.com.br/jEkNDtjD3KLGJdoJMeW40tfYlos=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/05/29/146/20190529160352656394u.jpg"
+    },
+    {
+      "nome": "Especial Lista de Aprovados UnB - Vestibular 2018",
+      "url": "https://www.correiobraziliense.com.br/euestudante/vestibularunb2018/",
+      "imagem": "https://i.correiobraziliense.com.br/XLesQHweIpPEbITPsAH5X1X8BE4=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/05/29/145/20190529142751946311a.jpg"
+    },
+    {
+      "nome": "Agonia do cerrado",
+      "url": "http://especiais.correiobraziliense.com.br/a-agonia-do-cerrado",
+      "imagem": "https://i.correiobraziliense.com.br/wSS77ajQKHGHPuB0P_-5js6umSM=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/142/20190314173744855258a.jpg"
+    },
+    {
+      "nome": "Trânsito: corrida para salvar vidas",
+      "url": "http://especiais.correiobraziliense.com.br/transito-corrida-para-salvar-vidas",
+      "imagem": "https://i.correiobraziliense.com.br/M0l5WWgXHC8UCz0FySFEgYOntVg=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/141/20190314173641538082u.jpg"
+    },
+    {
+      "nome": "Brasília na seca",
+      "url": "http://especiais.correiobraziliense.com.br/um-ano-de-crise-hidrica-em-brasilia",
+      "imagem": "https://i.correiobraziliense.com.br/Z8sizl-7dcF6BPXzEmqTDcDKO-U=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/140/20190314173526664249i.jpg"
+    },
+    {
+      "nome": "Brasil insustentável",
+      "url": "http://especiais.correiobraziliense.com.br/brasil-insustentavel",
+      "imagem": "https://i.correiobraziliense.com.br/_Iivm3WCmv0ZdBmUoLg0LsTJbao=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/139/20190314173420190875a.jpg"
+    },
+    {
+      "nome": "Passaporte para o segredo",
+      "url": "http://especiais.correiobraziliense.com.br/passaporte-para-o-segredo-10-dias-na-coreia-do-norte",
+      "imagem": "https://i.correiobraziliense.com.br/GbNzYnr5aO_9rme-S7sTFMHm6qk=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/138/20190314173317354218o.jpg"
+    },
+    {
+      "nome": "Césio 137",
+      "url": "https://especiais.correiobraziliense.net.br/cesio137/",
+      "imagem": "https://i.correiobraziliense.com.br/rVQKMhyUiiQuNs5YEKSOIKGZbG0=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/137/20190314173144986046u.jpg"
+    },
+    {
+      "nome": "Ciclovias em busca de uma cidade",
+      "url": "https://especiais.correiobraziliense.net.br/ciclovias-em-busca-de-uma-cidade/",
+      "imagem": "https://i.correiobraziliense.com.br/mTRQKQd0yrTZF6AFqOHGeW3XqAk=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/136/20190314173052277479a.jpg"
+    },
+    {
+      "nome": "Lixo urbano",
+      "url": "http://especiais.correiobraziliense.com.br/lixo-urbano",
+      "imagem": "https://i.correiobraziliense.com.br/tpXgp9IUFXCkiU9g5xzUv9fINF0=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/135/20190314172950961388e.jpg"
+    },
+    {
+      "nome": "Prazer, tecnologia",
+      "url": "http://especiais.correiobraziliense.com.br/tecnologia-esporte",
+      "imagem": "https://i.correiobraziliense.com.br/Ngn78oBN60KHe6g-O_pA0IpAY7Q=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/134/20190314172854122046a.jpg"
+    },
+    {
+      "nome": "Esporte trancado no armário",
+      "url": "http://especiais.correiobraziliense.com.br/esporte-trancado-no-armario",
+      "imagem": "https://i.correiobraziliense.com.br/TraEbvpEffk-LTF1lClYDVV72ME=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/133/20190314172712919131e.jpg"
+    },
+    {
+      "nome": "Brasília dopada",
+      "url": "http://especiais.correiobraziliense.com.br/brasilia-dopada",
+      "imagem": "https://i.correiobraziliense.com.br/scvP15vqKwNhCdLYz22ZdeqXn20=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/132/20190314172559513162i.jpg"
+    },
+    {
+      "nome": "Lixão, um problema de todos",
+      "url": "http://especiais.correiobraziliense.com.br/lixao-um-problema-de-todos-nos",
+      "imagem": "https://i.correiobraziliense.com.br/hfUSw_KDJHW4QDNkXEWPEYTUgjY=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/131/20190314172440914609e.jpg"
+    },
+    {
+      "nome": "Imposto de Renda 2017",
+      "url": "https://www.correiobraziliense.com.br/ir2017/",
+      "imagem": "https://i.correiobraziliense.com.br/Eao_4oBykeU3dcQ5J6zq1HopTkM=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/130/20190314172331457982i.png"
+    },
+    {
+      "nome": "Aniversário de Ceilândia",
+      "url": "https://www.correiobraziliense.com.br/aniversariodeceilandia/",
+      "imagem": "https://i.correiobraziliense.com.br/9Ilp1HHr0Va7zSQnhW9e-jgwzcU=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/129/20190314172211491610a.jpg"
+    },
+    {
+      "nome": "Aniversário de Brasília",
+      "url": "https://www.correiobraziliense.com.br/madeinbrasilia/",
+      "imagem": "https://i.correiobraziliense.com.br/5_Nd5RcChQeO8eW9XXJQvCBwjqw=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/128/20190314172045630311i.jpg"
+    },
+    {
+      "nome": "Brasília, vocação cultura",
+      "url": "http://especiais.correiobraziliense.com.br/brasilia-vocacao-cultura",
+      "imagem": "https://i.correiobraziliense.com.br/t6XwFjkEt5L36YTpiFHWhtFqFYA=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/127/20190314171741826726a.jpg"
+    },
+    {
+      "nome": "517 anos de resistência",
+      "url": "http://especiais.correiobraziliense.com.br/517anosderesistencia",
+      "imagem": "https://i.correiobraziliense.com.br/PSiuJo8w-j0Xk-ukG527Knds5wE=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/126/20190314171624517513e.jpg"
+    },
+    {
+      "nome": "Perseguidas",
+      "url": "http://especiais.correiobraziliense.com.br/perseguidas",
+      "imagem": "https://i.correiobraziliense.com.br/OOLySpKP3addgPgAplm6CmR6b0U=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/125/20190314171505789688o.jpg"
+    },
+    {
+      "nome": "O que sobrou da Coap das Copas",
+      "url": "http://especiais.correiobraziliense.com.br/legado-copa-2014",
+      "imagem": "https://i.correiobraziliense.com.br/GmmG23g3DAsXnuaVVi7KnmNUrh0=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/124/20190314171354423417i.jpg"
+    },
+    {
+      "nome": "Esquecida Mente",
+      "url": "http://especiais.correiobraziliense.com.br/esquecida-mente",
+      "imagem": "https://i.correiobraziliense.com.br/1zR-bdmcL57dUhnss5pQCeUaoWM=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/122/20190314161034962983u.jpg"
+    },
+    {
+      "nome": "Volta às aulas 2017",
+      "url": "https://www.correiobraziliense.com.br/voltaasaulas/",
+      "imagem": "https://i.correiobraziliense.com.br/xu2Yt6KU7NDYO8jBJ22nhwcVcpY=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/123/20190314161121565509a.jpg"
+    },
+    {
+      "nome": "Verão Brasília",
+      "url": "https://www.correiobraziliense.com.br/especiais/veraobsb/",
+      "imagem": "https://i.correiobraziliense.com.br/77ZP5vDD7xGs6azl4EC-hJDhq44=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/121/20190314160947788932e.jpg"
+    },
+    {
+      "nome": "Gaveta de guardados",
+      "url": "http://especiais.correiobraziliense.com.br/gavetas-de-guardados-acervos",
+      "imagem": "https://i.correiobraziliense.com.br/rZmrrvCCYv9PEWRzs62rOX6bl30=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/120/20190314160908798976o.jpg"
+    },
+    {
+      "nome": "A cultura livre",
+      "url": "http://especiais.correiobraziliense.com.br/a-cultura-livre",
+      "imagem": "https://i.correiobraziliense.com.br/-gXOKamuLYa1N4aMXmRhJLOmp68=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/119/20190314160739808640a.jpg"
+    },
+    {
+      "nome": "Mapa do Emprego",
+      "url": "http://especiais.correiobraziliense.com.br/mapa-do-emprego",
+      "imagem": "https://i.correiobraziliense.com.br/9Hqj9AW57SRWp5NrFVjA1Q9_sn8=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/144/20190314174148904579o.jpg"
+    },
+    {
+      "nome": "Brasil Olímpico",
+      "url": "http://especiais.correiobraziliense.com.br/brasil-olmpico",
+      "imagem": "https://i.correiobraziliense.com.br/DkYanC3oGRTWDCGcm7SpJ4v_McU=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/143/20190314174046953730i.jpg"
+    },
+    {
+      "nome": "Como será a educação?",
+      "url": "http://especiais.correiobraziliense.com.br/como-sera-a-educacao-no-df-em-2017",
+      "imagem": "https://i.correiobraziliense.com.br/T-fGHCzDDTbELtXS0FUSTdT1O18=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/118/20190314160645214905u.jpg"
+    },
+    {
+      "nome": "Luta por identidade",
+      "url": "http://especiais.correiobraziliense.com.br/luta-por-identidade",
+      "imagem": "https://i.correiobraziliense.com.br/oAmH0C2wMVpoBOk15HUl37vSRQQ=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/115/20190314154218500643u.jpg"
+    },
+    {
+      "nome": "Desafios da educação",
+      "url": "https://www.correiobraziliense.com.br/educacaoprofissional/",
+      "imagem": "https://i.correiobraziliense.com.br/tLmg9v4vsJtE6sd6vyMIF6PbkBw=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/114/20190314154105769923o.jpg"
+    },
+    {
+      "nome": "Seu filho será torcedor do barcelona",
+      "url": "http://especiais.correiobraziliense.com.br/time-do-coracao",
+      "imagem": "https://i.correiobraziliense.com.br/fl8Nd1yL4jl6lm2N7TK0gVl51Ng=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/113/20190314153809171852u.jpg"
+    },
+    {
+      "nome": "Menos água, mais consumo ",
+      "url": "http://especiais.correiobraziliense.com.br/menos-agua-mais-consumo-a-conta-que-nao-fecha",
+      "imagem": "https://i.correiobraziliense.com.br/Kido8PfMgM-kEOI82nKyoVkDJig=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/112/20190314153643586220u.jpg"
+    },
+    {
+      "nome": "Impressão 3d na medicina",
+      "url": "http://especiais.correiobraziliense.com.br/impressao-3d-na-medicina",
+      "imagem": "https://i.correiobraziliense.com.br/Vwd8ZCSWKcFA01LsUhqRaxHrIgQ=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/111/20190314153507733181a.jpg"
+    },
+    {
+      "nome": "Acidentes de moto",
+      "url": "http://especiais.correiobraziliense.com.br/motociclistas",
+      "imagem": "https://i.correiobraziliense.com.br/6ZQVZdpip5_-Z3D2MReruBd-eKw=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/110/20190314153409276487o.jpg"
+    },
+    {
+      "nome": "Eleições americanas 2016",
+      "url": "http://especiais.correiobraziliense.com.br/eleicoes-eua",
+      "imagem": "https://i.correiobraziliense.com.br/zQKWRs6lSWqOz90PfeEvFlJUZgE=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/109/20190314153320241516e.jpg"
+    },
+    {
+      "nome": "Luziânia 270 anos",
+      "url": "http://especiais.correiobraziliense.com.br/270-anos-de-luziania",
+      "imagem": "https://i.correiobraziliense.com.br/QXjB9pj4wUFSH3uoC4mQzneUChU=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/108/20190314153218111758a.jpg"
+    },
+    {
+      "nome": "O último padre exorcista ",
+      "url": "http://especiais.correiobraziliense.com.br/exorcista",
+      "imagem": "https://i.correiobraziliense.com.br/lITE0G08KHDyCMWRyGp5guXkACo=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/107/20190314153055823623i.jpg"
+    },
+    {
+      "nome": "Escolha a escola",
+      "url": "https://www.correiobraziliense.com.br/escolhaaescola/",
+      "imagem": "https://i.correiobraziliense.com.br/BR4xu2eQTGBUa63GFwmzswZtSKo=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/106/20190314152958854762e.jpg"
+    },
+    {
+      "nome": "Notícias para o futuro",
+      "url": "https://www.correiobraziliense.com.br/noticiasparaofuturo/",
+      "imagem": "https://i.correiobraziliense.com.br/O1ayKbRU_2IKN1nPEHVOvOAgL5I=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/105/20190314152858821420e.jpg"
+    },
+    {
+      "nome": "Especial saneamento",
+      "url": "https://www.correiobraziliense.com.br/especiais/dialogos-estrategicos/",
+      "imagem": "https://i.correiobraziliense.com.br/Bk4mLUyWEFxOcOa_iq-7fsxXDFA=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/104/20190314152746582507e.jpg"
+    },
+    {
+      "nome": "Especial carreiras",
+      "url": "https://www.correiobraziliense.com.br/especiais/carreiras/2017/",
+      "imagem": "https://i.correiobraziliense.com.br/xKHm8q-bkp6ofQ2U23t7bzQcRic=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/103/20190314152651258167a.jpg"
+    },
+    {
+      "nome": "Festival de cinema 2016",
+      "url": "https://www.correiobraziliense.com.br/especiais/festival-de-brasilia/2016/",
+      "imagem": "https://i.correiobraziliense.com.br/jt6IB4LHouo0-9XrQkmGykJ1ygY=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/102/20190314152456714040i.jpg"
+    },
+    {
+      "nome": "Especiais olimpíadas",
+      "url": "https://www.df.superesportes.com.br/especiais/olimpiadas/jogos2016/",
+      "imagem": "https://i.correiobraziliense.com.br/U7ZEP7pYjz-s11Uiaa-alUJlUsw=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/101/20190314152357484105a.jpg"
+    },
+    {
+      "nome": "Especiais meio ambiente",
+      "url": "https://www.correiobraziliense.com.br/especiais/meio-ambiente/2016/criancas-meio-ambiente-correio-braziliense/",
+      "imagem": "https://i.correiobraziliense.com.br/I-d12DKwJMgcFCHKqzQk0caU8E8=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/100/20190314152152774830o.jpg"
+    },
+    {
+      "nome": "Especial dia dos namorados",
+      "url": "https://www.correiobraziliense.com.br/especiais/dia-dos-namorados/2016/especial-dia-dos-namorados-2016-capa/",
+      "imagem": "https://i.correiobraziliense.com.br/LpEZHtH3YOx10GutTvujBMRuZm8=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/99/20190314152044181303u.jpg"
+    },
+    {
+      "nome": "Especial brasília 56 anos",
+      "url": "https://www.correiobraziliense.com.br/brasilia-56-anos/",
+      "imagem": "https://i.correiobraziliense.com.br/nNOOrAsNYXCMqsin1GyNgPDTK8o=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/98/20190314151920619335o.jpg"
+    },
+    {
+      "nome": "Especial dia mundial da água",
+      "url": "https://www.correiobraziliense.com.br/agua/",
+      "imagem": "https://i.correiobraziliense.com.br/6ffLdV_bYti0dO46uH5kD274jp4=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/97/20190314151759268573a.jpg"
+    },
+    {
+      "nome": "Especial IR 2016",
+      "url": "https://www.correiobraziliense.com.br/ir2016/",
+      "imagem": "https://i.correiobraziliense.com.br/9ki1rTRWbbcCCVh2ddVCge3GnKc=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/96/20190314151655863058e.jpg"
+    },
+    {
+      "nome": "Especial carnaval 2016",
+      "url": "https://www.correiobraziliense.com.br/carnaval2016/",
+      "imagem": "https://i.correiobraziliense.com.br/RiLIEBvacDr2UpUh03NMwiAKkBA=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/95/20190314151540906890a.png"
+    },
+    {
+      "nome": "Especial de natal 2015",
+      "url": "https://www.correiobraziliense.com.br/especiais/especialdenatal/2015/",
+      "imagem": "https://i.correiobraziliense.com.br/rOgsZ8GQjQelp44_sLG81BRtrQg=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/94/20190314151433352982o.jpg"
+    },
+    {
+      "nome": "Simulado enem 2015",
+      "url": "https://avaliacao.portalsas.com.br/SimuladoOnlineCorreioBraziliense/Default.aspx",
+      "imagem": "https://i.correiobraziliense.com.br/9R_X0wwiRt4tiz1-1Op0kiacpMg=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/93/20190314151308112271o.jpg"
+    },
+    {
+      "nome": "Festival de brasília do cinema brasileiro 2015",
+      "url": "https://www.correiobraziliense.com.br/especiais/festival-de-brasilia/2015/",
+      "imagem": "https://i.correiobraziliense.com.br/wumfXem2Jiw85EkYDaFfnlVx6hs=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/92/20190314151145593155u.jpg"
+    },
+    {
+      "nome": "Brasília capital do ipê",
+      "url": "https://www.correiobraziliense.com.br/especiais/brasilia-capital-do-ipe/",
+      "imagem": "https://i.correiobraziliense.com.br/GmQpoTpcgNI5b0BJahz_j82toPQ=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/91/20190314150955447290u.jpg"
+    },
+    {
+      "nome": "Dia dos namorados",
+      "url": "https://www.correiobraziliense.com.br/especiais/dia-dos-namorados/2015/",
+      "imagem": "https://i.correiobraziliense.com.br/GI7SAUv-SKIcYHgk51zTQtQMpKI=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/90/20190314150829647543u.jpg"
+    },
+    {
+      "nome": "Dia das mães",
+      "url": "https://www.correiobraziliense.com.br/especiais/dia-das-maes/2015/",
+      "imagem": "https://i.correiobraziliense.com.br/40bcNRwKhT62Y7GcM2-EvyDJUvc=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/89/20190314150740841836i.jpg"
+    },
+    {
+      "nome": "Eu sou bsb",
+      "url": "https://www.correiobraziliense.com.br/eusoubsb/http://www.correiobraziliense.com.br/eusoubsb/",
+      "imagem": "https://i.correiobraziliense.com.br/PrVuhOZvX3bKZhhvzQxS6yTjMAA=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/88/20190314150621910947o.jpg"
+    },
+    {
+      "nome": "Imposto de renda 2015",
+      "url": "https://www.correiobraziliense.com.br/ir2015/",
+      "imagem": "https://i.correiobraziliense.com.br/KhDueSpKqBG3JTYs_O-17dCHRAs=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/87/20190314150504394106e.jpg"
+    },
+    {
+      "nome": "50 anos da ditadura no brasil",
+      "url": "https://www.correiobraziliense.com.br/especiais/ditadura-50-anos/",
+      "imagem": "https://i.correiobraziliense.com.br/rpn9vfMECRzpNel9-k7JGkosCZw=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/116/20190314160316913187i.jpg"
+    },
+    {
+      "nome": "Enem",
+      "url": "https://www.correiobraziliense.com.br/euestudante/especial-enem/",
+      "imagem": "https://i.correiobraziliense.com.br/jX2NvxnHwnEUMvPXv6nI8ir8TVA=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/86/20190314150343782290i.jpg"
+    },
+    {
+      "nome": "Canta Brasília",
+      "url": "https://www.correiobraziliense.com.br/especiais/canta-brasilia/",
+      "imagem": "https://i.correiobraziliense.com.br/TgUE2_TVO2jbP2bRW6WEZnmalmo=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/117/20190314160451612023i.jpg"
+    },
+    {
+      "nome": "Voto secreto",
+      "url": "https://www.correiobraziliense.com.br/votosecreto/",
+      "imagem": "https://i.correiobraziliense.com.br/eF4rRxvGoJiRSuatPuBZuqDWAfg=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/85/20190314150220746780a.jpg"
+    },
+    {
+      "nome": "Um problema estrutural",
+      "url": "https://www.correiobraziliense.com.br/especiais/estrutural/",
+      "imagem": "https://i.correiobraziliense.com.br/_JNq9EGUot5msyvU6Wh8TGfheZs=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/84/20190314150025240277o.jpg"
+    },
+    {
+      "nome": "O céu de todos nós",
+      "url": "https://www.correiobraziliense.com.br/especiais/oceudetodosnos/",
+      "imagem": "https://i.correiobraziliense.com.br/Ljth8DhP2L8ZJTp80mOY_867q6k=/157x85/smart/imgsapp2.correiobraziliense.com.br/app/da_conteudo_147041641101/2019/03/14/83/20190314145307605779a.jpg"
+    }
+  ]
+}
