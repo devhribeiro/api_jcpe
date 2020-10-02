@@ -44,7 +44,7 @@ class NotiaDAO extends Connection
             matia.cd_matia as id,
             ds_matia_assun as channel,
             matia.ds_matia_titlo as title,
-            publi.ds_publi_titlo as titleCapa,
+            matia.ds_matia_titlo as titleCapa,
             ds_matia_chape as description,
             midia.ds_midia_link as image,
             matia.ds_matia_link as link,
@@ -55,7 +55,6 @@ class NotiaDAO extends Connection
             matia
             JOIN site ON matia.cd_site = site.cd_site
             JOIN poral ON site.cd_poral = poral.cd_poral
-            JOIN publi ON matia.cd_matia = publi.cd_matia
             LEFT JOIN midia on matia.cd_midia = midia.cd_midia
         WHERE 
             matia.cd_matia_statu in (2) and
@@ -122,7 +121,7 @@ class NotiaDAO extends Connection
             replace(midia.ds_midia_link, 'https:\/\/www.correiobraziliense.com.br', 'http:\/\/correio.cbnet.net.br') as image,
             matia.ds_matia_link as link,
             concat_ws('', ds_poral_url, matia.ds_matia_path) as linkMateria,
-            replace(concat_ws('', 'http:\/\/correio.cbnet.net.br', '/_conteudo', matia.ds_matia_path), '.html', '.json') as json,
+            replace(concat_ws('', 'http:\/\/jc.ne10.uol.com.br', '/_conteudo', matia.ds_matia_path), '.html', '.json') as json,
             matia.dt_matia_publi as published
         FROM 
             matia 
@@ -178,7 +177,7 @@ class NotiaDAO extends Connection
             replace(midia.ds_midia_link, 'https:\/\/www.correiobraziliense.com.br', 'http:\/\/correio.cbnet.net.br') as image,
             matia.ds_matia_link as link,
             concat_ws('', ds_poral_url, matia.ds_matia_path) as linkMateria,
-            replace(concat_ws('', 'http:\/\/correio.cbnet.net.br', '/_conteudo', matia.ds_matia_path), '.html', '.json') as json,
+            replace(concat_ws('', 'http:\/\/jc.ne10.uol.com.br', '/_conteudo', matia.ds_matia_path), '.html', '.json') as json,
             matia.dt_matia_publi as published
         FROM 
             matia 

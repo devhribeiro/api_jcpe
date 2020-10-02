@@ -24,9 +24,11 @@ class EdcaoDAO extends Connection
             jonal.cd_jonal = prded.cd_jonal and
             prded.cd_prded = mstre.cd_prded and
             mstre.cd_mstre = edcao.cd_mstre and
+			edcao.id_edcao_final = 2 and
             
 	    DATE(edcao.dt_edcao) = :dt_edcao
         order by
+			prded.id_prded_ordem,
             edcao.dt_edcao desc"); 
 
         $stmt->bindValue( ":dt_edcao", $dt_edcao);
@@ -70,6 +72,7 @@ class EdcaoDAO extends Connection
             jonal.cd_jonal = prded.cd_jonal and
             prded.cd_prded = mstre.cd_prded and
             mstre.cd_mstre = edcao.cd_mstre and
+			edcao.id_edcao_final = 2 and
             MONTH(edcao.dt_edcao) = :mes and
             YEAR(edcao.dt_edcao) = :ano
         order by
@@ -96,6 +99,7 @@ class EdcaoDAO extends Connection
             jonal.cd_jonal = prded.cd_jonal and
             prded.cd_prded = mstre.cd_prded and
             mstre.cd_mstre = edcao.cd_mstre and
+			edcao.id_edcao_final = 2 and
             edcao.dt_edcao between :inicio and :fim
         order by
             edcao.dt_edcao desc"); 
@@ -143,7 +147,8 @@ class EdcaoDAO extends Connection
             p.nm_edria as editoria,
             concat_ws('', replace(edcao.ds_edcao_url, 'http://edicao.intra.jc.com.br', 'http://fivenews.sjcc.com.br/jornal'), '/thumb/', pdcao.cd_pdcao, '.jpg') as thumb,
             concat_ws('', replace(edcao.ds_edcao_url, 'http://edicao.intra.jc.com.br', 'http://fivenews.sjcc.com.br/jornal'), '/pdf/', pdcao.ds_pdcao_arquv) as pdf,
-            concat_ws('', replace(edcao.ds_edcao_url, 'http://edicao.intra.jc.com.br', 'http://fivenews.sjcc.com.br/jornal'), '/issue', pdcao.cd_edcao, '.pdf') as pdf_completo,
+            -- concat_ws('', replace(edcao.ds_edcao_url, 'http://edicao.intra.jc.com.br', 'http://fivenews.sjcc.com.br/jornal'), '/issue', pdcao.cd_edcao, '.pdf') as pdf_completo,
+            concat_ws('', replace(edcao.ds_edcao_url, 'http://edicao.intra.jc.com.br', 'http://fivenews.sjcc.com.br/jornal'), '/../all.pdf') as pdf_completo,
             concat_ws('', replace(edcao.ds_edcao_url, 'http://edicao.intra.jc.com.br', 'http://fivenews.sjcc.com.br/jornal'), '/jpgdevice/', pdcao.cd_pdcao, '.jpg') as device,
             concat_ws('', replace(edcao.ds_edcao_url, 'http://edicao.intra.jc.com.br', 'http://fivenews.sjcc.com.br/jornal'), '/jpg/', pdcao.cd_pdcao, '.jpg') as imageAlta,
             concat_ws('', replace(edcao.ds_edcao_url, 'http://edicao.intra.jc.com.br', 'http://fivenews.sjcc.com.br/jornal'), '/thumb/', pdcao.cd_pdcao, '.jpg') as image
@@ -170,7 +175,8 @@ class EdcaoDAO extends Connection
                     order by
                         min(pdcao.vl_pdcao_pagin) 
                         ) as p,
-                pdcao
+                pdcao,
+				edcao dia
                 where
                 jonal.cd_jonal = prded.cd_jonal and
                 prded.cd_prded = mstre.cd_prded and
@@ -178,7 +184,8 @@ class EdcaoDAO extends Connection
                 edcao.cd_edcao = p.cd_edcao and
                 p.vl_pdcao_pagin = pdcao.vl_pdcao_pagin and
                 pdcao.cd_edcao = edcao.cd_edcao and
-                edcao.cd_edcao = :edcao 
+                date_format(edcao.dt_edcao, '%Y-%m-%d') = date_format(dia.dt_edcao, '%Y-%m-%d') and
+                dia.cd_edcao = :edcao
                 order by prded.id_prded_ordem, p.vl_pdcao_pagin desc"; 
         }
         else 
@@ -194,13 +201,14 @@ class EdcaoDAO extends Connection
                 edria.nm_edria as editoria,
                 concat_ws('', replace(edcao.ds_edcao_url, 'http://edicao.intra.jc.com.br', 'http://fivenews.sjcc.com.br/jornal'), '/thumb/', pdcao.cd_pdcao, '.jpg') as thumb,
                 concat_ws('', replace(edcao.ds_edcao_url, 'http://edicao.intra.jc.com.br', 'http://fivenews.sjcc.com.br/jornal'), '/pdf/', pdcao.ds_pdcao_arquv) as pdf,
-                concat_ws('', replace(edcao.ds_edcao_url, 'http://edicao.intra.jc.com.br', 'http://fivenews.sjcc.com.br/jornal'), '/issue', pdcao.cd_edcao, '.pdf') as pdf_completo,
+                -- concat_ws('', replace(edcao.ds_edcao_url, 'http://edicao.intra.jc.com.br', 'http://fivenews.sjcc.com.br/jornal'), '/issue', pdcao.cd_edcao, '.pdf') as pdf_completo,
+                concat_ws('', replace(edcao.ds_edcao_url, 'http://edicao.intra.jc.com.br', 'http://fivenews.sjcc.com.br/jornal'), '/../all.pdf') as pdf_completo,
                 concat_ws('', replace(edcao.ds_edcao_url, 'http://edicao.intra.jc.com.br', 'http://fivenews.sjcc.com.br/jornal'), '/jpgdevice/', pdcao.cd_pdcao, '.jpg') as device,
                 concat_ws('', replace(edcao.ds_edcao_url, 'http://edicao.intra.jc.com.br', 'http://fivenews.sjcc.com.br/jornal'), '/jpg/', pdcao.cd_pdcao, '.jpg') as imageAlta,
                 concat_ws('', replace(edcao.ds_edcao_url, 'http://edicao.intra.jc.com.br', 'http://fivenews.sjcc.com.br/jornal'), '/thumb/', pdcao.cd_pdcao, '.jpg') as image
             from
                 jonal, prded, mstre, edcao, edria,
-                pdcao
+                pdcao, edcao dia
             where
                 jonal.cd_jonal = prded.cd_jonal and
                 prded.cd_prded = mstre.cd_prded and
@@ -208,9 +216,10 @@ class EdcaoDAO extends Connection
                 pdcao.cd_edcao = edcao.cd_edcao and
                 pdcao.cd_edria = edria.cd_edria and
 
-                edcao.cd_edcao = :edcao
+                date_format(edcao.dt_edcao, '%Y-%m-%d') = date_format(dia.dt_edcao, '%Y-%m-%d') and
+                dia.cd_edcao = :edcao
             order by  
-                pdcao.vl_pdcao_pagin, prded.id_prded_ordem desc";
+                prded.id_prded_ordem, pdcao.vl_pdcao_pagin";
         }
         $this->db();
         $stmt = $this->pdo->prepare($sql); 
@@ -239,7 +248,8 @@ class EdcaoDAO extends Connection
             replace(concat_ws('', 'https://app.fivenews.com.br/convert.php?url=', poral.ds_poral_url, '/_conteudo', matia.ds_matia_path), '.html', '.xml') as xml,
             concat_ws('', replace(edcao.ds_edcao_url, 'http://edicao.intra.jc.com.br', 'http://fivenews.sjcc.com.br/jornal'), '/thumb/', pdcao.cd_pdcao, '.jpg') as thumb   ,
             concat_ws('', replace(edcao.ds_edcao_url, 'http://edicao.intra.jc.com.br', 'http://fivenews.sjcc.com.br/jornal'), '/pdf/', pdcao.ds_pdcao_arquv) as pdf,
-            concat_ws('', replace(edcao.ds_edcao_url, 'http://edicao.intra.jc.com.br', 'http://fivenews.sjcc.com.br/jornal'), '/issue', pdcao.cd_edcao, '.pdf') as pdf_completo,
+            -- concat_ws('', replace(edcao.ds_edcao_url, 'http://edicao.intra.jc.com.br', 'http://fivenews.sjcc.com.br/jornal'), '/issue', pdcao.cd_edcao, '.pdf') as pdf_completo,
+            concat_ws('', replace(edcao.ds_edcao_url, 'http://edicao.intra.jc.com.br', 'http://fivenews.sjcc.com.br/jornal'), '/../all.pdf') as pdf_completo,
             concat_ws('', replace(edcao.ds_edcao_url, 'http://edicao.intra.jc.com.br', 'http://fivenews.sjcc.com.br/jornal'), '/jpgdevice/', pdcao.cd_pdcao, '.jpg') as device,
             concat_ws('', replace(edcao.ds_edcao_url, 'http://edicao.intra.jc.com.br', 'http://fivenews.sjcc.com.br/jornal'), '/jpg/', pdcao.cd_pdcao, '.jpg') as imageAlta,
                 concat_ws('', replace(edcao.ds_edcao_url, 'http://edicao.intra.jc.com.br', 'http://fivenews.sjcc.com.br/jornal'), '/thumb/', pdcao.cd_pdcao, '.jpg') as image
@@ -280,7 +290,7 @@ class EdcaoDAO extends Connection
             from
                 jonal, prded, mstre, edcao,
                 pdcao, edria, pdmat, matia,
-                poral
+				site, poral
             where
                 jonal.cd_jonal = prded.cd_jonal and
                 prded.cd_prded = mstre.cd_prded and
@@ -289,6 +299,9 @@ class EdcaoDAO extends Connection
                 pdcao.cd_edria = edria.cd_edria and
                 pdcao.cd_pdcao = pdmat.cd_pdcao and
                 pdmat.cd_matia = matia.cd_matia and
+				matia.cd_site = site.cd_site and
+				site.cd_poral = poral.cd_poral and
+				poral.cd_poral = 1 and
                 edcao.cd_edcao = :edcao and edria.cd_edria = :edria ";
         if ($pdcao != "") {
             $sql .= " and pdcao.vl_pdcao_pagin = " . $pdcao;
